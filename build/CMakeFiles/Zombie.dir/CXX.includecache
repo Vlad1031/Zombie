@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vskotselias/Zombie/Zombie/main.cpp
+iostream
+-
+cstdlib
+-
+unistd.h
+-
+sys/wait.h
+-
+

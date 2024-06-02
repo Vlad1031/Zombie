@@ -1,0 +1,3 @@
+/home/vskotselias/Zombie/build/CMakeFiles/rebuild_cache.dir
+/home/vskotselias/Zombie/build/CMakeFiles/edit_cache.dir
+/home/vskotselias/Zombie/build/CMakeFiles/Zombie.dir
